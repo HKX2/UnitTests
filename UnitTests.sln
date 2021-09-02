@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{B41DA888-90ED-483D-9682-20C95C7770FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HKX2", "lib\HKX2Library\HKX2\HKX2.csproj", "{DA1F4F19-EB64-42AA-8C73-A25AB6020F88}"
+EndProject
+Global
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA1F4F19-EB64-42AA-8C73-A25AB6020F88}.UnitTests|Any CPU.ActiveCfg = HKX2|Any CPU
+		{DA1F4F19-EB64-42AA-8C73-A25AB6020F88}.UnitTests|Any CPU.Build.0 = HKX2|Any CPU
+		{B41DA888-90ED-483D-9682-20C95C7770FB}.UnitTests|Any CPU.ActiveCfg = UnitTests|Any CPU
+		{B41DA888-90ED-483D-9682-20C95C7770FB}.UnitTests|Any CPU.Build.0 = UnitTests|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		UnitTests|Any CPU = UnitTests|Any CPU
+	EndGlobalSection
+EndGlobal
